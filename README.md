@@ -16,7 +16,9 @@ Task Ideas:
 - nft minter dapp
 - multi sig dapp
 - ethereum events 
-
+- transfer ownership of contracts
+   - https://ethereum.stackexchange.com/questions/34184/transfer-ownership-of-a-token-contract
+   - via ownable.sol
 
 
 ## references:
