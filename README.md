@@ -15,4 +15,10 @@ Task Ideas:
 - React and Web3
 - nft minter dapp
 - multi sig dapp
-- 
+- ethereum events 
+
+
+
+## references:
+- https://github.com/FrancescoXX/100-days-of-Web3
+- https://github.com/nurcinozer/100-days-of-Web3
