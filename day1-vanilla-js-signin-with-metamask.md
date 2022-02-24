@@ -6,6 +6,7 @@
 
 - Create a html file using the code below. 
 - Run a local web server with the html file to demot the sign in with Metamask capability 
+   - if using VS Code, you can use this plugin to start a web server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 
 Code 
