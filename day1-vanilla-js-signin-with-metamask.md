@@ -1,9 +1,11 @@
-Context: 
+## Context: 
 - On a web 3 app, signing in with Ethereum and conencting wallet to Ethereum is a fundamental concept. In today's task, I'll be working on using the least amount of code to connect wallet to a web page .
 
 
+## Steps: 
 
-
+- Create a html file using the code below. 
+- Run a local web server with the html file to demot the sign in with Metamask capability 
 
 
 Code 
