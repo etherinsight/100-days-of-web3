@@ -16,11 +16,22 @@ Task Ideas:
 - nft minter dapp
 - multi sig dapp
 - ethereum events 
+- Monitoring and alerting 
+   - alchemy notification
+- Smart contract auditing 
+- Gas fee calculation 
+- Gas fee optimization 
+- opcodes in contract 
 - transfer ownership of contracts
    - https://ethereum.stackexchange.com/questions/34184/transfer-ownership-of-a-token-contract
    - via ownable.sol
 
 
-## references:
+## Other 100 days of web3:
 - https://github.com/FrancescoXX/100-days-of-Web3
 - https://github.com/nurcinozer/100-days-of-Web3
+
+
+Reference for more ideas: 
+- https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md
+- 
