@@ -13,6 +13,7 @@
 - Web3.py - Python Web3
 - web3-react
 - Viper language 
+- Indexers and Oracles 
 - chainlink vrf
 - chainlink keepers 
 - Burn NFT
@@ -37,6 +38,7 @@
 - transfer ownership of contracts
    - https://ethereum.stackexchange.com/questions/34184/transfer-ownership-of-a-token-contract
    - via ownable.sol
+- Merkle trees and use cases( whitelisting NFT mint etc)
 
 
 ## Other 100 days of web3:
