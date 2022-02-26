@@ -39,6 +39,9 @@
    - https://ethereum.stackexchange.com/questions/34184/transfer-ownership-of-a-token-contract
    - via ownable.sol
 - Merkle trees and use cases( whitelisting NFT mint etc)
+- Explore Morallis:  Web3 Development Platform
+     - NFT and defi data APIs
+     - moralis.io
 
 
 ## Other 100 days of web3:
