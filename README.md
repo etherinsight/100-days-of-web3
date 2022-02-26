@@ -44,6 +44,8 @@
      - moralis.io
 30. Web3 UI Kits
      - https://github.com/Developer-DAO/web3-ui
+     - https://moralis.io/web3ui-kit-the-ultimate-web3-user-interface-kit/
+        - https://github.com/web3ui/web3uikit
 
 
 
