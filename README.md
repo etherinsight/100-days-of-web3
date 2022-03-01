@@ -3,6 +3,7 @@
 
 
 
+
 ## Task Ideas: 
 1. simple login with wallet 
 2. explore different rpc/node providers 
@@ -39,6 +40,7 @@
    - https://ethereum.stackexchange.com/questions/34184/transfer-ownership-of-a-token-contract
    - via ownable.sol
 28. Merkle trees and use cases( whitelisting NFT mint etc)
+   - https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9
 29. Explore Morallis:  Web3 Development Platform
      - NFT and defi data APIs
      - moralis.io
