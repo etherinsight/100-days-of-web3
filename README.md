@@ -24,6 +24,7 @@
 17. ethereum events 
 18. Monitoring and alerting 
    - alchemy notification
+   - Tenderley Alerting and Actions 
 19. Smart Contract Best practices
     - https://consensys.github.io/smart-contract-best-practices/
 20. Smart contract auditing 
