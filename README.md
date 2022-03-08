@@ -1,5 +1,5 @@
-# web3-100days
-100 days of web3
+
+# 100 days of web3
 
 
 
@@ -50,7 +50,8 @@
      - https://moralis.io/web3ui-kit-the-ultimate-web3-user-interface-kit/
         - https://github.com/web3ui/web3uikit
 
-
+31. Circuit Breakers in Contract
+      - ability to pause contracts
 
 ## Other 100 days of web3:
 - https://github.com/FrancescoXX/100-days-of-Web3
