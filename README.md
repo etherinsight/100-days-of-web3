@@ -52,6 +52,8 @@
 
 31. Circuit Breakers in Contract
       - ability to pause contracts
+31. Dune Analytics 
+32. NFT Analytics Apps
 
 ## Other 100 days of web3:
 - https://github.com/FrancescoXX/100-days-of-Web3
