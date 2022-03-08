@@ -62,3 +62,4 @@
 - https://forum.openzeppelin.com/
 - https://ethereum.stackexchange.com/?tab=hot
 - https://ethereum.org/en/developers/docs/
+- https://github.com/dcbuild3r/blockchain-development-guide#front-end-development
